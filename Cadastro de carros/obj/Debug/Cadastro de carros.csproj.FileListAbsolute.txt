@@ -1,0 +1,20 @@
+C:\Users\nogue\source\repos\Cadastro de carros\bin\Debug\Cadastro de carros.exe.config
+C:\Users\nogue\source\repos\Cadastro de carros\bin\Debug\Cadastro de carros.exe
+C:\Users\nogue\source\repos\Cadastro de carros\bin\Debug\Cadastro de carros.pdb
+C:\Users\nogue\source\repos\Cadastro de carros\obj\Debug\Cadastro de carros.csprojAssemblyReference.cache
+C:\Users\nogue\source\repos\Cadastro de carros\obj\Debug\Cadastro_de_carros.frmCadastroCarros.resources
+C:\Users\nogue\source\repos\Cadastro de carros\obj\Debug\Cadastro_de_carros.Properties.Resources.resources
+C:\Users\nogue\source\repos\Cadastro de carros\obj\Debug\Cadastro de carros.csproj.GenerateResource.cache
+C:\Users\nogue\source\repos\Cadastro de carros\obj\Debug\Cadastro de carros.csproj.CoreCompileInputs.cache
+C:\Users\nogue\source\repos\Cadastro de carros\obj\Debug\Cadastro de carros.exe
+C:\Users\nogue\source\repos\Cadastro de carros\obj\Debug\Cadastro de carros.pdb
+C:\Cadastro de carros\bin\Debug\Cadastro de carros.exe.config
+C:\Cadastro de carros\bin\Debug\Cadastro de carros.exe
+C:\Cadastro de carros\bin\Debug\Cadastro de carros.pdb
+C:\Cadastro de carros\obj\Debug\Cadastro de carros.csprojAssemblyReference.cache
+C:\Cadastro de carros\obj\Debug\Cadastro_de_carros.frmCadastroCarros.resources
+C:\Cadastro de carros\obj\Debug\Cadastro_de_carros.Properties.Resources.resources
+C:\Cadastro de carros\obj\Debug\Cadastro de carros.csproj.GenerateResource.cache
+C:\Cadastro de carros\obj\Debug\Cadastro de carros.csproj.CoreCompileInputs.cache
+C:\Cadastro de carros\obj\Debug\Cadastro de carros.exe
+C:\Cadastro de carros\obj\Debug\Cadastro de carros.pdb
